@@ -202,12 +202,12 @@
               <repository>
 		  <id>deployment</id>
 	          <name>Internal releases</name>
-		      <url>http://18.144.61.34:8081/repository/sample-re/</url>
+		      <url>http://13.127.210.242:8081/repository/release/</url>
 	      </repository>
 	      <snapshotRepository>
 		  <id>deployment</id>
 		  <name>snapshot releases</name>
-		  <url>http://18.144.61.34:8081/repository/testing/</url>
+		  <url>http://13.127.210.242:8081/repository/snapshot/</url>
 	      </snapshotRepository>
 	 </distributionManagement>
 	<name>simple-web-app</name>
